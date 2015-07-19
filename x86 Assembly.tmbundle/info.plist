@@ -2,8 +2,20 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>deleted</key>
+	<array>
+		<!-- UUID of the prior single syntax file -->
+		<string>84DDB367-0875-4FF3-8047-D3FF2988B3C9</string>
+	</array>
+	<key>description</key>
+	<string>Support for x86 16/32/64 bit Assembly Language sources in Intel and AT&amp;T formats.</string>
 	<key>name</key>
-	<string>x86 Assembly</string>
+	<string>x86 Assembly Language</string>
+	<key>ordering</key>
+	<array>
+		<string>45696DF7-9EB9-4803-9BF2-4FFA8F449A5C</string>
+		<string>A24BDEAA-7013-4A7C-AB75-33E511E77598</string>
+	</array>
 	<key>uuid</key>
 	<string>4C177BCE-6E2A-4EB7-A7B8-C6C224929A8F</string>
 </dict>

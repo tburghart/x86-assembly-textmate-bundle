@@ -8,7 +8,7 @@
 		<string>S</string>
 	</array>
 	<key>name</key>
-	<string>x86 Assembly</string>
+	<string>x86 AT&amp;T Assembly Language</string>
 	<key>patterns</key>
 	<array>
 		<dict>
@@ -268,6 +268,6 @@
 	<key>scopeName</key>
 	<string>source.asm.x86</string>
 	<key>uuid</key>
-	<string>84DDB367-0875-4FF3-8047-D3FF2988B3C9</string>
+	<string>45696DF7-9EB9-4803-9BF2-4FFA8F449A5C</string>
 </dict>
 </plist>
